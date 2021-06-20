@@ -32,6 +32,12 @@ PixiJS has full [WebGL](https://en.wikipedia.org/wiki/WebGL) support and seamles
 
 **Boost your development and feel free to use your imagination!**
 
+### ES module ###
+
+```js
+import { PIXI } from "https://taisukef.github.io/pixijs/es/pixi.v5.3.9.min.js";
+```
+
 ### Learn ###
 - Website: Find out more about PixiJS on the [official website](http://www.pixijs.com/).
 - Getting started: Check out @kittykatattack's comprehensive [tutorial](https://github.com/kittykatattack/learningPixi).
